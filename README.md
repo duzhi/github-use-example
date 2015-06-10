@@ -16,4 +16,6 @@ e.g.:https://github.com/duzhi
 1、Team->Commit
 2、Team->Push to Upstream at Project
 
-test branch
+## 查看所有的stars：Your stars
+1、进入https://github.com/duzhi
+2、如图左下：![](stars.png)
