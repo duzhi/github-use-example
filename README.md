@@ -1,5 +1,5 @@
 # hello-github
-URL:https://github.com/
+URL:https://github.com
 hello github,study github
 
 ## organization
